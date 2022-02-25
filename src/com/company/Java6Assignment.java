@@ -6,8 +6,8 @@ public class Java6Assignment {
 
         Scanner sc = new Scanner(System.in);
 
-        //Q1)  Number guess game for those who have not done
-
+    //Q1)  Number guess game for those who have not done
+        System.out.println("change 2");
         System.out.println("Changes to see in Githud");
         System.out.println("I have thought of a number(1-100)");
         int computerNumber = (int) ((Math.random()) * 100);
