@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Array {
 
-    public static void main(String[] args) {
+    public static void main(java.lang.String[] args) {
 
         Scanner sc = new Scanner(System.in);
 //[] array
@@ -81,6 +81,10 @@ public class Array {
 
 
         }
+
+        java.lang.String h ="jahanvi";
+        char[] chars = h.toCharArray();
+        System.out.println(chars);
 
     }
 }
