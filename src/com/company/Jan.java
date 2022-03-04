@@ -21,6 +21,7 @@ public class Jan {
 
         System.out.println(name.replace("a", "$"));
         System.out.println(name.replaceFirst("J", "%"));
+        System.out.println("new");
 
 
 int i=12345;

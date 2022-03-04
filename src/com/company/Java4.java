@@ -28,7 +28,7 @@ public class Java4 {
         int y = j4.nextInt();
         oddEven(y);
 
-
+        System.out.println("new");
     }
     public static void positiveNegative(int x){
         if (x > 0) {

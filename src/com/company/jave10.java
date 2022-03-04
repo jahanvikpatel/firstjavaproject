@@ -7,6 +7,7 @@ public class jave10 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
+        System.out.println("hi");
 //[] array
         // int marks[] = {15, 20, 40, 60};
         //int[] marks = new int[10];
