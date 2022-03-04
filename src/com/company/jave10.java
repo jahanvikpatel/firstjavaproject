@@ -2,9 +2,9 @@ package com.company;
 
 import java.util.Scanner;
 
-public class Array {
+public class jave10 {
 
-    public static void main(java.lang.String[] args) {
+    public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
 //[] array

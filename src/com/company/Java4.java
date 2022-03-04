@@ -17,7 +17,7 @@ public class Java4 {
         greaterNumber(a,b,c);
 
         System.out.println("Please write your name");
-        String name = j4.next();
+        java.lang.String name = j4.next();
         nameCondition(name);
 
         System.out.println("Please enter a number");
@@ -49,7 +49,7 @@ public class Java4 {
         else {System.out.println("C is greater");}
     }
 
-    public static void nameCondition(String name ){
+    public static void nameCondition(java.lang.String name ){
         if (name.startsWith("ri")) {
             if (name.length()>6){
             System.out.println(name.toUpperCase());
