@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class SelfStudy {
     public static void main(String[] args){
+        System.out.println("Calculator");
         System.out.println("hi");
         final byte MONTHS_IN_YEAR = 12;
         final byte PERCENT = 100;
